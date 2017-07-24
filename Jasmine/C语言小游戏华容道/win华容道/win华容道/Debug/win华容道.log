@@ -1,0 +1,17 @@
+﻿  winpro.c
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(21): warning C4005: 'IMAGINE_PAPER': macro redefinition
+  c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winlay.h(7): note: see previous definition of 'IMAGINE_PAPER'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(120): warning C4133: '=': incompatible types - from 'char [9]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(122): warning C4133: '=': incompatible types - from 'char [11]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(129): warning C4133: 'function': incompatible types - from 'char [18]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(129): warning C4133: 'function': incompatible types - from 'char [7]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(148): warning C4133: 'function': incompatible types - from 'char [11]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(153): warning C4133: 'function': incompatible types - from 'char [13]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(153): warning C4133: 'function': incompatible types - from 'char [7]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(166): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(166): warning C4024: 'mciSendStringW': different types for formal and actual parameter 3
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(463): warning C4133: 'function': incompatible types - from 'CHAR [1024]' to 'LPWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(468): warning C4133: 'function': incompatible types - from 'CHAR [1024]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\win华容道\win华容道\winpro.c(230): warning C4101: 'hOldBrush': unreferenced local variable
+  win华容道.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\win华容道\Debug\win华容道.exe
+  win华容道.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\win华容道\Debug\win华容道.pdb (Partial PDB)

@@ -1,0 +1,19 @@
+﻿  winpro.c
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(15): warning C4005: 'IMAGINE_PAPER': macro redefinition
+  c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winlay.h(7): note: see previous definition of 'IMAGINE_PAPER'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(114): warning C4133: '=': incompatible types - from 'char [9]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(116): warning C4133: '=': incompatible types - from 'char [11]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(123): warning C4133: 'function': incompatible types - from 'char [18]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(123): warning C4133: 'function': incompatible types - from 'char [7]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(142): warning C4133: 'function': incompatible types - from 'char [11]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(147): warning C4133: 'function': incompatible types - from 'char [13]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(147): warning C4133: 'function': incompatible types - from 'char [7]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(160): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(160): warning C4024: 'mciSendStringW': different types for formal and actual parameter 3
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(408): warning C4133: 'function': incompatible types - from 'CHAR [1024]' to 'LPWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(413): warning C4133: 'function': incompatible types - from 'CHAR [1024]' to 'LPCWSTR'
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(224): warning C4101: 'hBrushCMAN': unreferenced local variable
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(225): warning C4101: 'hOldBrush': unreferenced local variable
+c:\users\lenovo\documents\visual studio 2015\projects\操作版\操作版\winpro.c(222): warning C4101: 'hbrushSolider': unreferenced local variable
+  操作版.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\操作版\Debug\操作版.exe
+  操作版.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\操作版\Debug\操作版.pdb (Partial PDB)
